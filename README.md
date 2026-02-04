@@ -1,13 +1,22 @@
-## Hi there 👋
+<h2 align="left">Hi 👋!, I’m Daksh<br>
+An aspiring Machine Learning Engineer<br>
+📍 Ghaziabad, India </h2>
 
-<!--
-**ksh-50/ksh-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<img width="12" />
 
-- 🔭 I’m currently working on my Research paper using NLP
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about AI
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+<img width="12" />
+
+
+</div>
+
+###
