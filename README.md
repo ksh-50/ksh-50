@@ -5,6 +5,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=220&height=30&lines=ML+Engineer" />
   </a>
 </div>
+
+###
+
+<img align="right" height="120" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
+
+###
+
   <h5> • Core Java Developer  <br>• Medium-level DSA problem solver  <br>• Strong in Mathematics & logical thinking  <br>• Interested in Machine Learning and data exploration  <br>• Curious learner improving communication & presentation skills</h5>
 
 ###
@@ -33,6 +40,11 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ksh-50.ksh-50&left_color=blueviolet"  />
+</div>
+
+###
 
 
 
