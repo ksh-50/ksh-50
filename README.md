@@ -15,7 +15,7 @@
   <h5> • Core Java Developer  <br>• Medium-level DSA problem solver  <br>• Strong in Mathematics & logical thinking  <br>• Interested in Machine Learning and data exploration  <br>• Curious learner improving communication & presentation skills</h5>
 
 ###
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with the</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
