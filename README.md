@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Daksh<br> and I'm from Ghaziabad, Uttar Pradesh</h3>
+<h3 align="center">Hello 👋! My name is Daksh<br> and I'm from Ghaziabad, Uttar Pradesh</h3>
 <h2 align="left">About me</h2>
 <div align="center" style="margin-bottom: -10px;">
   <a href="https://git.io/typing-svg">
